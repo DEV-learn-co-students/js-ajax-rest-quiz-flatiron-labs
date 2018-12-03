@@ -42,7 +42,7 @@ We've learned about [REST](https://en.wikipedia.org/wiki/Representational_state_
 
 ?: What HTTP verb is typically used to update something?
 
-(X) PUT
+(X) PATCH
 ( ) POST
 ( ) GET
 ( ) DELETE
